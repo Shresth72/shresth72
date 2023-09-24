@@ -29,16 +29,37 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,python)](https://skillicons.dev)
+![My Skills](https://img.shields.io/badge/-C-00599C?&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
-**Libraries and Frameworks**
+**Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,flask,redux,graphql,threejs,ai,ps&perline=5)](https://skillicons.dev)
-
-
-**Databases, Tools, VIC...**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,prisma,git,vscode&perline=5)](https://skillicons.dev)
+![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-express-000000?logo=Express&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Flask-050505?logo=flask&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-GraphQl-E10098?logo=GraphQl&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-ThreeJs-ffffff?logo=threedotjs&logoColor=black&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-mongoose-F04D35?logo=mongoose&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-🐻Zustand-582f3f?&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-reactQuery-FF4154?logo=reactQuery&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-aws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-zod-4479A1?logo=zod&logoColor=white&style=for-the-badge)
 
 **FIND ME ON ⬇️** 
 

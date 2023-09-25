@@ -29,8 +29,8 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 **Languages**
 
-![My Skills](https://img.shields.io/badge/00599C?logo=C&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-00599C?logo=C&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-C++-00599C?logo=Cpp&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)

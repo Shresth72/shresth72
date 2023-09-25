@@ -29,8 +29,8 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 **Languages**
 
-![My Skills](https://img.shields.io/badge/-00599C?logo=C&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-C++-00599C?logo=Cpp&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-00599C?&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-C++-00599C?logo=Cpp&C=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
@@ -46,7 +46,7 @@ This page serves as a glimpse into my world of development and design. You'll fi
 ![My Skills](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-GraphQl-E10098?logo=GraphQl&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ThreeJs-ffffff?logo=threedotjs&logoColor=black&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-mongoose-F04D35?logo=mongoose&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)

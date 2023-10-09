@@ -42,7 +42,7 @@ This page serves as a glimpse into my world of development and design. You'll fi
 ![My Skills](https://img.shields.io/badge/-express-000000?logo=Express&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-Flask-050505?logo=flask&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Fastify-f8dd43?logo=fastify&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-GraphQl-E10098?logo=GraphQl&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ThreeJs-ffffff?logo=threedotjs&logoColor=black&style=for-the-badge)

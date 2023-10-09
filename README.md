@@ -50,7 +50,7 @@ This page serves as a glimpse into my world of development and design. You'll fi
 ![My Skills](https://img.shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-mongoose-F04D35?logo=mongoose&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
@@ -60,6 +60,7 @@ This page serves as a glimpse into my world of development and design. You'll fi
 ![My Skills](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-aws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-zod-4479A1?logo=zod&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 **FIND ME ON ⬇️** 
 

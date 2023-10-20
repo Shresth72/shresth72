@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hey there, I'm Shresth72, a passionate full-stack developer and a creative graphic designer hailing from the vibrant and diverse land of India.
-This page serves as a glimpse into my world of development and design. You'll find a collection of projects, showcasing my skills and the diverse range of work I've had the privilege to be a part of.**
+**Hey there, I'm Shresth72, a passionate full-stack developer and a creative graphic designer from India.
+I am passionate about creating scallable backend using docker, redis and proxies(on my way to start loving these) and awesome and beautiful frontends using my designing skills.
+This page serves as a glimpse into my world of development and design. You'll find a collection of projects, showcasing my skills and the diverse range of work I've had the privilege to be a part of. I love Typescript**
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 

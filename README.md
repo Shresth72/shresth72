@@ -49,13 +49,13 @@ This page serves as a glimpse into my world of development and design. You'll fi
 ![My Skills](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-reactQuery-FF4154?logo=reactQuery&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-aws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-zod-4479A1?logo=zod&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shresth72)
 

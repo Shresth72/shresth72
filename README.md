@@ -20,13 +20,6 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shresth72)
-
-**My Itinerary**
-* Working on MERN, NextJs and AWS Cloud Solutions.
-* Contribution to Open Source projects.
-* Getting adept at Data Structures and Algorithms.
-
 **Languages**
 
 ![My Skills](https://img.shields.io/badge/C-00599C?&logoColor=white&style=for-the-badge)
@@ -40,10 +33,11 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-express-000000?logo=Express&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Fastify-f8dd43?logo=fastify&logoColor=black&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-🐻Zustand-582f3f?&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-GraphQl-E10098?logo=GraphQl&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ThreeJs-ffffff?logo=threedotjs&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=white&style=for-the-badge)
@@ -55,12 +49,18 @@ This page serves as a glimpse into my world of development and design. You'll fi
 ![My Skills](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-🐻Zustand-582f3f?&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-reactQuery-FF4154?logo=reactQuery&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-aws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-zod-4479A1?logo=zod&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=shresth72)
+
+**My Itinerary**
+* Working on MERN, NextJs and AWS Cloud Solutions.
+* Contribution to Open Source projects.
+* Getting adept at Data Structures and Algorithms.
 
 **FIND ME ON ⬇️** 
 

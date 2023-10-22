@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Hey there, I'm Shresth72, a passionate full-stack developer and a creative graphic designer from India.
 I am passionate about creating scallable backend using NodeJs/Fastify, Docker, Database Management and Proxies(on my way to start loving this) and awesome and beautiful frontends using my designing skills.
-This page serves as a glimpse into my world of development and design. You'll find a collection of projects, showcasing my skills and the diverse range of work I've had the privilege to be a part of. I love Typescript**
+This page serves as a glimpse into my world of development and design. You'll find a collection of projects, showcasing my skills and the diverse range of work I've had the privilege to be a part of.**
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 

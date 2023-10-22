@@ -41,7 +41,7 @@ This page serves as a glimpse into my world of development and design. You'll fi
 ![My Skills](https://img.shields.io/badge/-Fastify-f8dd43?logo=fastify&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-🐻Zustand-582f3f?&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-GraphQl-E10098?logo=GraphQl&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-ThreeJs-ffffff?logo=threedotjs&logoColor=black&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-Three_Fiber-ffffff?logo=threedotjs&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-mongoose-F04D35?logo=mongoose&logoColor=white&style=for-the-badge)

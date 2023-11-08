@@ -21,6 +21,8 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
+<a href="shrestha-shashank-144.vercel.app">![My Skills](https://skillicons.dev/icons?i=github)</a>
+
 **Languages**
 
 ![My Skills](https://img.shields.io/badge/C-00599C?&logoColor=white&style=for-the-badge)

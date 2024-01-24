@@ -21,7 +21,7 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
-- 🌐 [Link to my Portfolio](shrestha-shashank-144.vercel.app) 
+- 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
 - 🔭 [Codepen](https://codepen.io/shresth72)
 - 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
 

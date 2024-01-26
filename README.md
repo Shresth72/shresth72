@@ -32,17 +32,13 @@ This page serves as a glimpse into my world of development and design**
 
 **Languages**
 
-![My Skills](https://img.shields.io/badge/C-00599C?&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-C++-00599C?logo=Cpp&C=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Rust-B32629?logo=Rust&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=black&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 **Backend and Databases/ORMs**
 
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-express-000000?logo=Express&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-rocket-d33847?logo=Rust&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
@@ -59,11 +55,9 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-reactQuery-FF4154?logo=reactQuery&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-🐻_Zustand-582f3f?&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-zod-4479A1?logo=zod&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 

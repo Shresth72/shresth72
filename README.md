@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **Hello, Shrestha Shashank here.
-Passionate about creating scallable backend using NodeJs and other nasty tools and beautiful frontends!
+Passionate about creating efficient and scallable backends using NodeJs/Rust and other nasty tools and along with beautiful frontends!
 This page serves as a glimpse into my world of development and design**
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)

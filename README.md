@@ -15,15 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hey there, I'm Shresth72, a passionate full-stack developer and a creative graphic designer from India.
-I am passionate about creating scallable backend using NodeJs/Fastify, Docker, Database Management and Proxies(on my way to start loving this) and awesome and beautiful frontends using my designing skills.
-This page serves as a glimpse into my world of development and design. You'll find a collection of projects, showcasing my skills and the diverse range of work I've had the privilege to be a part of.**
+**Hello, Shrestha Shashank here.
+Passionate about creating scallable backend using NodeJs and other nasty tools and beautiful frontends!
+This page serves as a glimpse into my world of development and design**
 
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
 - 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
 - 🔭 [Codepen](https://codepen.io/shresth72)
 - 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
+
+**Currently**
+* Working on Rocket Rust, along with AWS cloud services for building scalabale microservices.
+* Getting adept at Data Structures and Algorithms.
+* Contribution to Open Source projects.
 
 **Languages**
 
@@ -64,7 +69,3 @@ This page serves as a glimpse into my world of development and design. You'll fi
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shresth72)
 
-**My Itinerary**
-* Working on Rocket Rust, along with AWS cloud services for building scalabale microservices.
-* Getting adept at Data Structures and Algorithms.
-* Contribution to Open Source projects.

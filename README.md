@@ -24,9 +24,9 @@ This page serves as a glimpse into my world of development and design**
 - 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
 
 **Currently**
-* Working on Rocket Rust, along with AWS cloud services for building scalabale microservices.
+* Working on Node.js and Rocker.rs, along with AWS cloud services for building scalabale microservices.
 * Getting adept at Data Structures and Algorithms.
-* Contribution to Open Source projects.
+* Learning testing systems
 
 **Languages**
 

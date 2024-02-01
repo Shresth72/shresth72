@@ -23,11 +23,6 @@ This page serves as a glimpse into my world of development and design**
 - 🔭 [Codepen](https://codepen.io/shresth72)
 - 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
 
-**Currently**
-* Working on Node.js and Rocker.rs, along with AWS cloud services for building scalabale microservices.
-* Getting adept at Data Structures and Algorithms.
-* Learning testing systems
-
 **Languages**
 
 ![My Skills](https://img.shields.io/badge/-C++-00599C?logo=Cpp&C=white&style=for-the-badge)

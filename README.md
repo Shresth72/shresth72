@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 Passionate about creating efficient and scallable backends using NodeJs/Rust and other nasty tools and along with beautiful frontends!
 This page serves as a glimpse into my world of development and design**
 
-![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
-
 - 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
 - 🔭 [Codepen](https://codepen.io/shresth72)
 - 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
@@ -61,5 +59,7 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shresth72)
+
+| <a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=shresth72&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shrestha's github stats" /></a> | <a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 

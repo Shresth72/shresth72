@@ -44,7 +44,6 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-apachekafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
-
 ![My Skills](https://img.shields.io/badge/-awslambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazons3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazonrds-527FFF?logo=amazonrds&logoColor=white&style=for-the-badge)

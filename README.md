@@ -29,25 +29,24 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Rust-B32629?logo=Rust&logoColor=white&style=for-the-badge)
 
-**Backend**
+**Backend & Cloud**
 
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-rocket-d33847?logo=Rust&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-mongoose-F04D35?logo=mongoose&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-drizzle-C5F74F?logo=drizzle&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-apachekafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
+
+![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-awslambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazons3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazonrds-527FFF?logo=amazonrds&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazonecs-FF9900?logo=amazonecs&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-amazoncdk-FF4F8B?logo=amazonapigateway&logoColor=white&style=for-the-badge)
 
 
 

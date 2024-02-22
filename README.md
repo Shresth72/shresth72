@@ -44,9 +44,11 @@ This page serves as a glimpse into my world of development and design**
 
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-amazoncdk-FF4F8B?logo=amazonapigateway&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-awscloudformation-DD344C?logo=amazoncloudwatch&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-awslambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazons3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazoncdk-FF4F8B?logo=amazonapigateway&logoColor=white&style=for-the-badge)
+
 
 
 

@@ -43,7 +43,7 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
 
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-ubuntu-e95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-kubernetes-3069de?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazoncdk-FF4F8B?logo=amazonapigateway&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-awscloudformation-DD344C?logo=amazoncloudwatch&logoColor=white&style=for-the-badge)

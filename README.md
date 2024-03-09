@@ -62,6 +62,7 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-ubuntu-e95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 

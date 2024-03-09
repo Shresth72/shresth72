@@ -34,7 +34,6 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-rocket-d33847?logo=Rust&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-prisma-000c1f?logo=prisma&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-drizzle-C5F74F?logo=drizzle&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)

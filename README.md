@@ -47,6 +47,7 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-amazonec2-232F3E?logo=amazonec2&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-awslambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazons3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-githubactions-181717?logo=githubactions&logoColor=white&style=for-the-badge)
 
 
 

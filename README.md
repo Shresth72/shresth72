@@ -37,7 +37,6 @@ This page serves as a glimpse into my world of development and design**
 
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-rocket-d33847?logo=Rust&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-drizzle-C5F74F?logo=drizzle&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
@@ -59,6 +58,7 @@ This page serves as a glimpse into my world of development and design**
 
 **Frontend and Other**
 
+![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-reactQuery-FF4154?logo=reactQuery&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-🐻_Zustand-582f3f?&logoColor=white&style=for-the-badge)

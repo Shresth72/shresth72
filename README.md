@@ -44,8 +44,9 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-kubernetes-3069de?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazonec2-232F3E?logo=amazonec2&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-awslambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-amazoneks-FF6C00?logo=amazoneks&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-amazonecs-FF9900?logo=amazonecs&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-amazonec2-FFCF00?logo=amazonec2&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazons3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-githubactions-181717?logo=githubactions&logoColor=white&style=for-the-badge)
 

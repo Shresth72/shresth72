@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 **Hello, Shrestha Shashank here.
 Passionate about creating efficient and scalable backends using NodeJs/Rust and other nasty tools and along with beautiful frontends!
 This page serves as a glimpse into my world of development and design**
@@ -22,6 +22,10 @@ This page serves as a glimpse into my world of development and design**
 - 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
 - 🔭 [Codepen](https://codepen.io/shresth72)
 - 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
+- 🌱 I’m currently working on
+  - Kubernetes, AWS IAC and CI/CD
+  - Rust & Networking Concepts
+  - Data Structures & Algorithms
 
 **Languages**
 
@@ -29,11 +33,12 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Rust-B32629?logo=Rust&logoColor=white&style=for-the-badge)
 
-**Backend & Cloud**
+**Backend, Cloud & DevOps**
 
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-rocket-d33847?logo=Rust&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-prisma-000c1f?logo=prisma&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-drizzle-C5F74F?logo=drizzle&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
@@ -43,7 +48,7 @@ This page serves as a glimpse into my world of development and design**
 
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-kubernetes-3069de?logo=kubernetes&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazoneks-FF6C00?logo=amazoneks&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazonecs-FF9900?logo=amazonecs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazonec2-FFCF00?logo=amazonec2&logoColor=white&style=for-the-badge)

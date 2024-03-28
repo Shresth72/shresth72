@@ -36,7 +36,7 @@ This page serves as a glimpse into my world of development and design**
 **Backend, Cloud & DevOps**
 
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-rocket-d33847?logo=Rust&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-axum-d33847?logo=Rust&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-drizzle-C5F74F?logo=drizzle&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
@@ -47,7 +47,6 @@ This page serves as a glimpse into my world of development and design**
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-kubernetes-3069de?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazoneks-FF6C00?logo=amazoneks&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazonecs-FF9900?logo=amazonecs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazonec2-FFCF00?logo=amazonec2&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazons3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)

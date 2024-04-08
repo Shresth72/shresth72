@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Shresth72/shresth72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-**Hello, Shrestha Shashank here.
-Passionate about creating efficient and scalable backends using NodeJs/Rust and other nasty tools and along with beautiful frontends!
-This page serves as a glimpse into my world of development and design**
+**Interested in creating efficient backend and networking stuff in rust, and beautiful frontend stuff!**
 
 - 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
 - 🔭 [Codepen](https://codepen.io/shresth72)

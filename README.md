@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-axum-d33847?logo=Rust&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-postgres-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-drizzle-C5F74F?logo=drizzle&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-apachekafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-vitest-bc34fe?logo=vitest&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
 
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-kubernetes-3069de?logo=kubernetes&logoColor=white&style=for-the-badge)

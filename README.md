@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazonecs-FF9900?logo=amazonecs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-amazonec2-FFCF00?logo=amazonec2&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazons3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-githubactions-181717?logo=githubactions&logoColor=white&style=for-the-badge)
 
 

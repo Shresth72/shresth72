@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-**Interested in creating efficient backend and networking stuff in rust/ts, and beautiful frontend stuff!**
+**Interested in creating backend and networking stuff in rust/ts, and beautiful frontend stuff!**
 
 - 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
 - 🔭 [Codepen](https://codepen.io/shresth72)

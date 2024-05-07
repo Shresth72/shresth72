@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
-<a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true&hide=Jupyter+Notebook" /></a>
+<a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true&hide=CSS" /></a>

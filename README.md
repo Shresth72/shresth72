@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
 - 🔭 [Codepen](https://codepen.io/shresth72)
 - 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
-- 🌱 I’m currently working on
+- 🌱 I’m currently working on and learning
   - Data Structures & Algorithms
   - Rust and Networking
-  - Kubernetes, AWS IAC and CI/CD
+  - Kubernetes, AWS and CI/CD
 
 **Languages**
 
@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
-<!-- <a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true&hide=Jupyter+Notebook" /></a> --!>
+<a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true&hide=Jupyter+Notebook" /></a>

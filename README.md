@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-kubernetes-3069de?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazonecs-FF9900?logo=amazonecs&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-amazonec2-FFCF00?logo=amazonec2&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-amazonws-232F3E?logo=amazonec2&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-githubactions-181717?logo=githubactions&logoColor=white&style=for-the-badge)
 
 

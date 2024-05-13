@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 
-**Frontend and Other**
+**Frontend**
 
 ![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
@@ -61,7 +61,5 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-vitest-bc34fe?logo=vitest&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-Gsap-88CE02?logo=GreenSock&logoColor=black&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
 <!--<a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true&hide=CSS" /></a>-->

@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 ![My Skills](https://img.shields.io/badge/-nodejs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-axum-d33847?logo=Rust&logoColor=white&style=for-the-badge)
+![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-postgres-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
@@ -52,7 +53,6 @@ Here are some ideas to get you started:
 
 **Frontend**
 
-![My Skills](https://img.shields.io/badge/-NextJs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-ReactJs-0088CC?logo=react&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-reactQuery-FF4154?logo=reactQuery&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-🐻_Zustand-582f3f?&logoColor=white&style=for-the-badge)

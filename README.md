@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-postgres-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
-![My Skills](https://img.shields.io/badge/-neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+<!--![My Skills](https://img.shields.io/badge/-kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)-->
+<!--![My Skills](https://img.shields.io/badge/-neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)-->
 
 ![My Skills](https://img.shields.io/badge/-docker-0078ba?logo=docker&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-kubernetes-3069de?logo=kubernetes&logoColor=white&style=for-the-badge)
@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 ![My Skills](https://img.shields.io/badge/-photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![My Skills](https://img.shields.io/badge/-illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
-<a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true&hide=CSS" /></a>
+<!--<a href="https://github.com/shresth72/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=buefy&hide_border=true&hide=CSS" /></a>-->

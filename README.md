@@ -13,16 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-**Interested in creating backend and networking stuff in rust/ts, and beautiful frontend stuff!**
-
-- 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) 
-- 🔭 [Codepen](https://codepen.io/shresth72)
-- 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
-- 🌱 I’m currently working on and learning
+🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) </br>
+🔭 [Codepen](https://codepen.io/shresth72) </br>
+📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
+<!--  - 🌱 I’m currently working on and learning
   - Data Structures & Algorithms
   - Rust and Networking
   - Kubernetes, AWS and CI/CD
+-->
 
 **Languages**
 

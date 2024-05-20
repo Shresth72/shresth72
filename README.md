@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 > C++ </br>
 > Lua </br>
 > Learning Go </br>
-> Rust in **Linux** :D </br>
-> Rust in **Testing** :D 
+> Lots of Rust in **Linux** </br>
+> Lots and lots of Rust in **Testing**  
 
 ## Backend, Networking and Distributed Systems skills
 

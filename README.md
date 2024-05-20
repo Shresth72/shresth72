@@ -20,8 +20,9 @@ Here are some ideas to get you started:
   - Rust and Networking
   - Kubernetes, AWS and CI/CD
 -->
+# Things I do and love
 
-## Languages I love using
+## Languages 
 
 > **Rust** </br>
 > **Typescript** </br>
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 > Lots of Rust in **Linux** </br>
 > Lots and lots of Rust in **Testing**  
 
-## Backend, Networking and Distributed Systems skills
+## Backend, Networking and Distributed Systems 
 
 > Node~~Js~~ Ts </br>
 > NextJs </br>

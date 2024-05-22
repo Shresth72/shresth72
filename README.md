@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 > Lua </br>
 > Learning Go </br>
 > Lots of Rust in **Linux** </br>
-> Lots and lots of Rust in **Testing**  
 
 ## Backend, Networking and Distributed Systems 
 
@@ -44,6 +43,7 @@ Here are some ideas to get you started:
 > Docker and Kubernetes </br>
 > Terraform (AWS) <sup>opentofu ftw</sup> </br>
 > CI/CD (Github Actions)
+> Unit and Integration Testing
 
 ## Frontend
 

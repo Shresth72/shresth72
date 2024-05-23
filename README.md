@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=shresth72&show_icons=true&theme=material-palenight&count_private=true" alt="github status"/><a> ‎ ‎ ‎‎‎‎‎‎</a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=material-palenight"/></a>‎‎
+<a><img src="https://github-readme-stats.vercel.app/api?username=shresth72&show_icons=true&theme=material-palenight&count_private=true" alt="github status"/><a> ‎ ‎ ‎‎‎‎‎‎</a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=material-palenight&hide=CSS,HTML,C,Swift,EJS,SCSS"/></a>‎‎
 
 <!--  - 🌱 I’m currently working on and learning
   - Data Structures & Algorithms

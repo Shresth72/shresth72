@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 
 > **Rust** </br>
 > **Typescript** </br>
+> Go </br>
+> Python </br>
 > C++ </br>
 > Lua </br>
-> Learning Go </br>
-> Lots of Rust in **Linux** </br>
+> Lots of Rust </br>
+> Some more Rust and Go 👀
 
 ## Backend, Networking and Distributed Systems 
 

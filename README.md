@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - Rust and Networking
   - Kubernetes, AWS and CI/CD
 -->
-# Things I do and love
+<!-- # Things I do and love
 
 ## Languages 
 
@@ -35,12 +35,13 @@ Here are some ideas to get you started:
 > Lua </br>
 > Lots of Rust </br>
 > Some more Rust and Go 👀
+-->
 
 ## Backend, Networking and Distributed Systems 
 
+> Go and Rust on the **backend**</br>
 > Node~~Js~~ Ts </br>
 > NextJs </br>
-> Axum </br>
 > PostgreSQL </br>
 > Nginx </br>
 > Redis </br>

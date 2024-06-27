@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <!--
 <a><img src="https://github-readme-stats.vercel.app/api?username=shresth72&show_icons=true&theme=material-palenight&count_private=true" alt="github status"/><a>
 -->
-‎ ‎ ‎‎‎‎‎‎</a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=dark&hide=CSS,HTML,C,Swift,EJS,SCSS,Javascript"/></a>‎‎
 <!--  - 🌱 I’m currently working on and learning
   - Data Structures & Algorithms
   - Rust and Networking
@@ -35,6 +34,9 @@ Here are some ideas to get you started:
 > Lots of Rust </br>
 > Some more Rust and Go 👀
 -->
+<a href="https://github.com/shresth72">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=github_dark&hide=CSS,HTML,C,Swift,EJS,SCSS,Javascript" alt="Top languages - github_dark">
+</a>
 
 ## Backend, Networking and Distributed Systems 
 

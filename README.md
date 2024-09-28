@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 > Redis </br>
 > Docker and Kubernetes </br>
 > Terraform (AWS) </br>
-> CI/CD (Github Actions)
-> Unit and Integration Testing
+> CI/CD (Github Actions) </br>
+> Unit and Integration Testing </br>
 > Netcat and Wireshark </br>
 > eBPF Programs </br>
 > Linux Drivers </br>

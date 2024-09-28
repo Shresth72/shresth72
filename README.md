@@ -40,23 +40,24 @@ Here are some ideas to get you started:
 
 ## Backend, Networking and Distributed Systems 
 
-> Go and Rust on the **backend**</br>
+> Go and Rust</br>
 > Node~~Js~~ Ts </br>
-> NextJs </br>
 > PostgreSQL </br>
 > Nginx </br>
 > Redis </br>
-> Netcat and Wireshark </br>
 > Docker and Kubernetes </br>
-> Terraform (AWS) <sup>opentofu ftw</sup> </br>
+> Terraform (AWS) </br>
 > CI/CD (Github Actions)
 > Unit and Integration Testing
+> Netcat and Wireshark </br>
+> eBPF Programs </br>
+> Linux Drivers </br>
 
 ## Frontend
 
 > React </br>
 > ReactQuery </br>
-> Zustand </br>
+> GSAP </br>
 > Tailwind </br>
 > Vitest </br>
 

@@ -51,12 +51,14 @@ Here are some ideas to get you started:
 > Unit and Integration Testing </br>
 > Netcat and Wireshark </br>
 > eBPF Programs </br>
-> Linux Drivers </br>
+> Linux </br>
 
 ## Frontend
 
 > React </br>
+> Tanstack </br>
 > ReactQuery </br>
+> Zustand </br>
 > GSAP </br>
 > Tailwind </br>
 > Vitest </br>

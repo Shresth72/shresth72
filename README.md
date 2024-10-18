@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 > Some more Rust and Go 👀
 -->
 <a href="https://github.com/shresth72">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=github_dark&hide=CSS,HTML,Swift,EJS,SCSS,Javascript,Jupyter%20Notebook" alt="Top languages - github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=github_dark&hide=C%2B%2B,Lua,HCL,CSS,HTML,Swift,EJS,SCSS,Javascript,Jupyter%20Notebook" alt="Top languages - github_dark">
 </a>
 
 <!--

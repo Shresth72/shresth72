@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresth72&layout=compact&theme=github_dark&hide=CSS,HTML,Swift,EJS,SCSS,Javascript,Jupyter%20Notebook" alt="Top languages - github_dark">
 </a>
 
+<!--
 ## Backend, Networking and Distributed Systems 
 
 > Go and Rust</br>
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
 > Tailwind </br>
 > Vitest </br>
 
-
+-->
 ## Some Links :)
 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) </br>
 🔭 [Codepen](https://codepen.io/shresth72) </br>

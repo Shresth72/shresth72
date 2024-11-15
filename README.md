@@ -8,6 +8,5 @@
 🔭 [Codepen](https://codepen.io/shresth72) </br>
 📫 [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b) 
 
-<!--[![Shresth72's GitHub | Dependencies](https://stats.quine.sh/Shresth72/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shresth72)-->
 
-[![Shresth72's GitHub | Topics Over Time](https://stats.quira.sh/Shresth72/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shresth72) [![Shresth72's GitHub | Languages Over Time](https://stats.quira.sh/Shresth72/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Shresth72)
+

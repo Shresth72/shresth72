@@ -5,9 +5,14 @@
 🌐 [Link to my Portfolio](https://shrestha-shashank-144.vercel.app) </br>
 🔭 [Codepen](https://codepen.io/shresth72) </br>
 -->
-- 👋 Hi, I'm Shrestha Shashank
-- 👀 I'm interested in Linux, Networking, Systems Programming and OpenGL
-- 📫 My [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b)
+
+# 👋 Hi, I’m Shrestha Shashank, FullStack Developer from India
+- 👀 I'm interested in FullStack Dev, Networking, Systems Programming and Linux!
+- 🌱 I'm currently working as a Software Engineering Intern @UKGIndia.
+- 💻 Check out my pinned projects on github
+- 📎 Some Links:
+  - [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b)
+  - [Codepen](https://codepen.io/shresth72)
 
 </br>
 <a href="https://github.com/shresth72">

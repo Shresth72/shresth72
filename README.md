@@ -8,7 +8,7 @@
 
 # 👋 Hi, I’m Shrestha Shashank, FullStack Developer from India
 - 👀 I'm interested in FullStack Dev, Networking, Distributed Systems and Linux!
-- 🌱 I'm currently working as a Software Engineering @UKGIndia.
+- 🌱 I'm currently working as a Software Engineer @UKGIndia.
 - 💻 Check out my pinned projects on github
 - 📎 Some Links:
   - [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b)

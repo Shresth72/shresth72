@@ -13,9 +13,15 @@
   - [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b)
   - [Codepen](https://codepen.io/shresth72)
 
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,go,rust,python)](https://skillicons.dev)
+## Languages
+[![Languages](https://skillicons.dev/icons?i=c,go,rust,python)](https://skillicons.dev)
 
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=go,fastapi,django,react,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,gcp,githubactions)](https://skillicons.dev)
 
 <!--
 ## GitHub Stats

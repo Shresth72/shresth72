@@ -14,12 +14,13 @@
   - [Codepen](https://codepen.io/shresth72)
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=c,go,rust,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,python,rust,c)](https://skillicons.dev)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,fastapi,react,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=go,fastapi,django,react,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,redis,kafka)](https://skillicons.dev)
+
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,gcp,githubactions)](https://skillicons.dev)
 

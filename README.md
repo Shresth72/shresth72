@@ -17,7 +17,7 @@
 [![Languages](https://skillicons.dev/icons?i=go,python,rust,c)](https://skillicons.dev)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=go,fastapi,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,fastapi,react,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,redis,kafka)](https://skillicons.dev)
 

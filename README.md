@@ -6,8 +6,8 @@
 🔭 [Codepen](https://codepen.io/shresth72) </br>
 -->
 
-# 👋 Hi, I’m Shrestha Shashank, FullStack Developer from India
-- 👀 I'm interested in FullStack Dev, Networking, Distributed Systems and Linux!
+# 👋 Hi, I’m Shrestha Shashank, Backend Developer from India
+- 👀 I'm interested in Backend Dev, MLOps, Distributed Systems and Linux!
 - 🌱 I'm currently working as a Software Engineer @UKGIndia.
 - 📎 Some Links:
   - [Linkedin](https://www.linkedin.com/in/shrestha-shashank-38002b22b)

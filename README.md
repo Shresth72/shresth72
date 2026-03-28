@@ -14,7 +14,7 @@
   - [Codepen](https://codepen.io/shresth72)
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=python,c,go,rust)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,go,rust,godot)](https://skillicons.dev)
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=go,fastapi,react,css)](https://skillicons.dev)
